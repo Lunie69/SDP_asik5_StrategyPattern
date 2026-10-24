@@ -73,4 +73,3 @@ A new cooking strategy can be added by implementing `CookingStrategy`. Existing 
 
 Each strategy keeps its cooking algorithm inside its own class. The context does not need to know the internal steps of the algorithm.
 
-## 6. Testing
